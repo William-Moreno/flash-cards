@@ -1,4 +1,5 @@
 # To Run
+Run '--npm install--' to install so the node-modules folder is available in your local directory
 
 Run `npm start` in the project root and the app will be available on port 3000.
 
