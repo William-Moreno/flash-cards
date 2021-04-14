@@ -25,7 +25,7 @@ export default function App() {
 							activeClassName='active'
 							activeStyle={{
 								fontWeight: 'bold',
-								color: 'purple',
+								color: 'cyan',
 							}}>
 							Topics
 						</NavLink>
@@ -37,7 +37,7 @@ export default function App() {
 							activeClassName='active'
 							activeStyle={{
 								fontWeight: 'bold',
-								color: 'purple',
+								color: 'cyan',
 							}}>
 							Quizzes
 						</NavLink>
@@ -49,7 +49,7 @@ export default function App() {
 							activeClassName='active'
 							activeStyle={{
 								fontWeight: 'bold',
-								color: 'purple',
+								color: 'cyan',
 							}}>
 							New Quiz
 						</NavLink>
