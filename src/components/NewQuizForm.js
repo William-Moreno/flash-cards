@@ -29,7 +29,7 @@ export default function NewQuizForm() {
 			const cardId = uuidv4();
 			cardIds.push(cardId);
 			dispatch(
-				addCard({ id: cardId, front: 'front of card', back: 'back of card' })
+				addCard({ id: cardId, front: card.front, back: card.back })
 			);
 		});
 		// create the new quiz here
